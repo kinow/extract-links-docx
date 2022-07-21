@@ -1,0 +1,2 @@
+python-docx==0.8.*
+urlextract==1.6.*
